@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../pw_assignments"
+		},
+		{
+			"path": "../python_project"
+		},
+		{
+			"path": "../opencv"
+		}
+	],
+	"settings": {}
+}
