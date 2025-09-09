@@ -6,7 +6,7 @@ else:
     print("Number is negative")
     
 
-#Take a positive integer and tell it is odd or even
+#Take a positive integer and tell it is even or odd
 num1 = int(input("Enter the number:"))
 if num1 % 2 == 0:
     print("Number is even")
